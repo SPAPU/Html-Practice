@@ -1,0 +1,50 @@
+.top-container{
+      background-color: #d8ebe4;
+      text-align: center;}
+      .bottom-container{
+          background-color: #d8ebe4;
+          margin: 20px;
+          padding: 20px;}
+
+body{text-align: center;}
+
+    h1{color: red;}
+    h2{color: #046582}
+    h3{color: #046582}
+    hr {
+        border-style: dotted none none;
+        border-color: grey;
+        border-width: 8px;
+        width: 5%;}
+
+      .top-cloud{
+              position: relative;
+              left: 200px;
+              padding-top: 20px;
+            }
+
+      .bottom-cloud{
+              position: absolute;
+            }
+
+
+      .pro{
+            text-decoration: underline;
+          }
+
+      .btn{border: 5px solid blue;
+            color: black;
+            background-color: blue;
+            border-radius: 10px;}
+
+      .skills{
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+      }
+  .computer{width: 25%;
+  margin-right: 30px;
+      }
+  .chilly{width: 25%;
+  margin-right: 30px;
+        }
